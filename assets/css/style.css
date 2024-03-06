@@ -1,0 +1,18 @@
+.custom-tooltip1{
+    --bs-tooltip-bg: blueviolet;
+    --bs-tooltip-color: white;
+}
+
+.custom-tooltip2{
+    --bs-tooltip-bg: orange;
+    --bs-tooltip-color: black;
+}
+
+.custom-tooltip3{
+    --bs-tooltip-bg: rgb(0, 26, 255);
+    --bs-tooltip-color: white;
+}
+
+#jobs .card img {
+    aspect-ratio: 3/2;
+}
